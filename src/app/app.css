@@ -1,0 +1,24 @@
+nav{
+    background-color: blueviolet;
+    padding: 0.5em;
+    gap: 0.3em;
+    display: flex;
+  
+}
+nav a{
+    text-decoration: none;
+    background-color: rgba(235, 177, 249, 0.796);
+    color: rgb(24, 24, 24);
+    padding: 0.3em;
+    border-radius: 0.2em;
+    
+}
+nav a:hover{
+    background-color: rgb(246, 8, 206);
+    color: rgb(236, 242, 238);
+}
+section{
+    background-color: rgb(250, 170, 253);
+    border-radius: 0.1em;
+    padding: 0.3em;
+}
